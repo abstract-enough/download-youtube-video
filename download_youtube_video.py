@@ -3,7 +3,7 @@ from pytubefix import YouTube
 #replace with your video address
 video_link = "https://youtu.be/NMQVcvrKjfI"
 
-#replace witu folder location where you want to save the video
+#replace with folder location where you want to save the video
 save_folder = "/content/drive/MyDrive"
 
 
